@@ -1,4 +1,4 @@
 app:
-  name: 'mock App'
-  description: 'mock description'
-  environment: 'mock testing'
+  name: 'configloader App'
+  description: 'config loader App - configuration obtained from GIT'
+  environment: 'development'
