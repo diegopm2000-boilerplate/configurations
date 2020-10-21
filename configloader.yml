@@ -1,0 +1,4 @@
+app:
+  name: 'mock App'
+  description: 'mock description'
+  environment: 'mock testing'
