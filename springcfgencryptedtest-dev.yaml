@@ -1,3 +1,3 @@
 database:
   user: myuser
-  password: mysecret
+  password: '{cipher}dc9c242255bd5cd7bab586fc0670105273f2ea880d07cbf26c83c97b1d439d66'
