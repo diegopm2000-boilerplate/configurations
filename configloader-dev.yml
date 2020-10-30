@@ -2,3 +2,5 @@ app:
   name: 'configloader App'
   description: 'config loader App - configuration obtained from GIT'
   environment: 'development'
+log:  
+  level: debug # modes available orderer by magnitude: error, warning, info, debug
