@@ -4,3 +4,5 @@ app:
   environment: 'development'
 log:  
   level: debug # modes available orderer by magnitude: error, warning, info, debug
+express:
+  port: 8080
